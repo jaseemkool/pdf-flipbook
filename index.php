@@ -1,1 +1,1 @@
-<?php include 'footer.html'; ?>
+<?php include 'index.html'; ?>
